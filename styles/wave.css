@@ -129,3 +129,52 @@ header{
 }
 
 
+/* Product Users  */
+.pro-user-title{
+   color: #252432;
+   font-size: 38px;
+   font-weight: bold;
+   font-family: "Raleway", sans-serif;
+
+   margin-top: 50px;
+   margin-bottom: 20px;
+}
+
+.data-title{
+   color: #4E47FF;
+   font-family: "Inter", sans-serif;
+   font-weight: 800;
+   font-size: 70px;
+
+   margin-bottom: 0px;
+}
+
+.data-subtitle{
+   font-family: "Inter", sans-serif;
+   font-size: 20px;
+   color:rgb(37, 36, 50, 0.50);
+
+   margin-top: 0px;
+}
+
+.pro-user-data-container{
+   display: flex;
+   justify-content: space-between;
+
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 50px;
+   margin-right: auto;
+   margin-left: auto;
+
+   max-width: 856px;
+}
+
+.pro-user{
+   max-width: 1140px;
+   background-color: rgb(78, 71, 255, 0.10);
+   margin: 116px auto 137px auto;
+   border: 1px solid black;
+   border-radius: 24px;
+   text-align: center;
+}
