@@ -13,6 +13,8 @@
 body{
    margin: 0;
    padding: 0;
+
+   background-color: #F5F8FF;
 }
 
 /* header style */
@@ -319,3 +321,52 @@ header{
    margin: 137px auto 93px auto;
    padding: 71px auto;
 }
+
+/* Get in Touch Section */
+.get-in-touch-title{
+   font-family: "Raleway", sans-serif;
+   font-size: 97px;
+   font-weight: 800px;
+}
+
+label{
+   font-family: "Inter", sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+}
+
+.get-in-touch-form input[type=text]{
+   padding: 20px 32px;
+}
+.get-in-touch-form input[type=email]{
+   padding: 20px 32px;
+}
+
+.get-in-touch-form textarea{
+   padding: 20px 32px;
+}
+
+.get-in-touch-form input[type="submit"]{
+   background-color: #4E47FF;
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-size: 16px;
+   font-weight: 700px;
+   border-radius: 10px;
+   border: none;
+   padding: 19px 232px;
+}
+
+
+.get-in-touch{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   max-width: 1140px;
+   border: 1px solid black;
+
+   padding: 71px 0px;
+   margin: 93px auto 14px auto;
+}
+
