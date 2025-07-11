@@ -15,6 +15,13 @@ body{
    padding: 0;
 }
 
+/* header style */
+header{
+   background-image: url(../images/herobg.png);
+   width: 100%;
+   height: 800px;
+}
+
 /* nav style */
 .nav-title{
    font-family: "Inter", sans-serif;
@@ -41,4 +48,31 @@ body{
    max-width: 1140px;
    margin: 0px auto 158px auto;
    padding: 50px 0px;
+}
+
+/* Banner Section style */
+.banner-title{
+   font-family: "Raleway", sans-serif;
+   font-size: 65px;
+   font-weight: 900px;
+   
+}
+
+.banner-btn{
+   background-color: #4E47FF;
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-size: 16px;
+   font-weight: 700px;
+   border-radius: 10px;
+   border: none;
+   padding: 16px 32px;
+   margin-bottom: 237px;
+}
+
+.banner-content{
+   max-width: 905px;
+   margin: 0px auto 237px auto;
+
+   text-align: center;
 }
