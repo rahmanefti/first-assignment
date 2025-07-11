@@ -42,6 +42,28 @@ header{
    padding: 16px 32px;
 }
 
+.nav-btn{
+   background-color: #4E47FF;
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-size: 16px;
+   font-weight: 700px;
+   border-radius: 10px;
+   border: none;
+   padding: 16px 32px;
+}
+
+.nav-btn:hover{
+   background-color: rgb(78, 71, 255, 0.5);
+   color: rgba(255, 255, 255, 0.459);
+   font-family: "Raleway", sans-serif;
+   font-size: 16px;
+   font-weight: 700px;
+   border-radius: 10px;
+   border: none;
+   padding: 16px 32px;
+}
+
 .nav-bar{
    display: flex;
    justify-content: space-between;
@@ -72,6 +94,11 @@ header{
    margin-bottom: 237px;
 }
 
+.banner-btn:hover{
+   background-color: rgba(77, 71, 255, 0.80);
+   color: rgba(255, 255, 255, 0.80);
+}
+
 .banner-content{
    max-width: 905px;
    margin: 0px auto 237px auto;
@@ -99,6 +126,11 @@ header{
    border-radius: 10px;
    border: none;
    padding: 16px 32px;
+}
+
+.action-btn:hover{
+    background-color: rgba(77, 71, 255, 0.80);
+   color: rgba(255, 255, 255, 0.80);
 }
 
 .action-description{
@@ -298,6 +330,11 @@ header{
 
 }
 
+.focus-btn:hover{
+    background-color: rgba(77, 71, 255, 0.80);
+   color: rgba(255, 255, 255, 0.80);
+}
+
 .focus-btn-center{
    text-align: center;
    margin-top: 0px;
@@ -349,6 +386,11 @@ label{
    border-radius: 10px;
    border: none;
    padding: 19px 232px;
+}
+
+.get-in-touch-form input[type="submit"]:hover{
+   background-color: rgba(77, 71, 255, 0.80);
+   color: rgb(255, 255, 255, .80);
 }
 
 
