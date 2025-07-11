@@ -447,7 +447,7 @@ label{
 }
 .footer{
    max-width: 531px;
-   margin: 104px 455px 103px 454px;
+   margin: 104px auto 103px auto;
 }
 
 .footer-section{
