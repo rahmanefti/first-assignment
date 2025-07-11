@@ -265,3 +265,57 @@ header{
 
    margin: 137px auto;
 }
+
+/* Focus Section */
+.focus-title{
+   font-family: "Raleway", sans-serif;
+   font-weight: bolder;
+   font-size: 50px;
+
+   text-align: center;
+
+   margin-top: 71px;
+   margin-bottom: 20px;
+}
+
+.focus-description{
+   color: rgb(0, 0, 0, 0.50);
+   font-family: "Raleway", sans-serif;
+   font-size: 24px;
+
+   text-align: center;
+
+   margin-top: 0px;
+   margin-bottom: 20px;
+}
+
+.focus-btn{
+   background-color: #4E47FF;
+   color: white;
+   font-family: "Raleway", sans-serif;
+   font-size: 16px;
+   font-weight: 700px;
+   border-radius: 10px;
+   border: none;
+   padding: 16px 32px;
+
+}
+
+.focus-btn-center{
+   text-align: center;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.focus-img-center{
+   margin: 20px 150px 71px 150px;
+   border-radius: 48px;
+}
+
+.focus{
+   max-width: 1140px;
+   border: 1px solid black;
+
+   margin: 137px auto 93px auto;
+   padding: 71px auto;
+}
